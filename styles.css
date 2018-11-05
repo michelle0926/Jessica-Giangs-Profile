@@ -1,0 +1,38 @@
+body {
+    background-image:url(https://www.muralswallpaper.com/app/uploads/little-ghost-plain.jpg);
+}
+h1 {
+    color: Orchid;
+    font-family: 'Playfair Display', serif;
+}
+h2 {
+    color:Violet;
+    font-family: 'Fjalla One', sans-serif;
+}
+h3 {
+    color: turquoise;
+    font-family: 'Nunito Sans', sans-serif;
+}
+p {
+    color: MediumSlateBlue;
+    font-family: 'Exo', sans-serif;
+}
+ul {
+    color: Slateblue;
+     font-family: 'Acme', sans-serif;
+}
+a {
+    color:MediumSlateBlue;
+}
+img {
+    height:300px;
+    width: 360px;
+    border: double 10px lavender;    
+}
+body {
+    text-align:center;
+    border: solid 10px Lavender;
+}
+
+
+    
